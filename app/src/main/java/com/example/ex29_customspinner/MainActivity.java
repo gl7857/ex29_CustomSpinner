@@ -46,7 +46,6 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
                 "\nCapital City: " + capitalCities[position] +
                 "\nPopulation size: " + populationSizes[position]);
     }
-
     @Override
     public void onNothingSelected(AdapterView<?> parent) {
     }
